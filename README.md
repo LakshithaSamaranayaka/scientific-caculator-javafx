@@ -38,3 +38,6 @@ Keyboard support
 Degree / radian mode
 Better error messages
 More scientific operations       
+
+## Screenshot
+![Scientific Calculator](screenshots\calculator.png)
